@@ -2,6 +2,8 @@ site_name: New Leaf Modding Docs
 site_description: Animal Crossing New Leaf Modding Documentation by Kyusetzu 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.top
     - search.suggest
@@ -10,6 +12,7 @@ theme:
     - content.code.annotate
     - content.code.copy
   language: en
+
 # UI-Color
   palette: 
     - media: "(prefers-color-scheme: light)"
