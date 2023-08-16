@@ -1,0 +1,64 @@
+site_name: New Leaf Modding Docs
+site_description: Animal Crossing New Leaf Modding Documentation by Kyusetzu 
+theme:
+  name: material
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+  language: en
+# UI-Color
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/eye-outline
+        name: Switch to flashbangmode
+      primary: orange
+      accent: black
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      toggle:
+        icon: material/eye
+        name: Switch to darkmode
+      primary: orange
+      accent: teal
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences  # - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - roamlinks
+  - callouts
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Tw6TdejPrP
+
+copyright: |
+  &copy; 2023 Kyusetzu
