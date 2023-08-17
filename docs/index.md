@@ -10,7 +10,8 @@
 > [!note] "WIP as always"
 
 - [[BCRES|Textures]]
-- Music
-- Text
-- Font
+- [[BCSTM|Music]]
+- [[UMSBT|Text]]
+- [[BCFNT|Font]]
+- [[BIN|Metadata]]
 - ...
