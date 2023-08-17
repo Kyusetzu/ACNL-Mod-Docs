@@ -13,7 +13,4 @@
 - Music
 - Text
 - Font
-- ... 
-## Reach out for help!
-
-[Discord](https://discord.gg/Tw6TdejPrP)
+- ...
