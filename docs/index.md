@@ -10,7 +10,16 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 > This is not a complete documentation and it will be work in progress for quite some time.
 > I'm[^1] a single individual and can't do all at once, and perfect as well.
 [^1]:This documentation was created by Kyusetzu.
-## Things you can mod
+## Do you know these basics?
+### Dumping
+- [[[Guide] How to dump the game files on console]]
+- [[[Guide] How to dump the game files on pc]]
+### Patching
+- [[[Guide] How to patch the game on citra]]
+- [[[Guide] How to patch the game on console]]
+### Compiling
+- [[[Guide] How to compile the game]]]
+## What do you want to mod?
 
 > [!note] WIP, as you know
 
