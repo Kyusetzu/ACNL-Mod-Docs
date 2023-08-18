@@ -18,7 +18,7 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 - [[[Guide] How to patch the game on citra]]
 - [[[Guide] How to patch the game on console]]
 ### Compiling
-- [[[Guide] How to compile the game]]]
+- [[[Guide] How to compile the game]]
 ## What do you want to mod?
 
 > [!note] WIP, as you know
