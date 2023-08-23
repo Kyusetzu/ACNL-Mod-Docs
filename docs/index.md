@@ -45,3 +45,4 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 | [[UMSBT]] | [[[Guide] Editing text]]              |
 | [[BCFNT]] | [[[Guide] Editing the font]]          |
 | [[BIN]]   | [[[Guide] Editing the game metadata]] |
+![[graph.png]]

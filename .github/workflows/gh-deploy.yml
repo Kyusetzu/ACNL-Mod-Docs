@@ -18,10 +18,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install mkdocs-callouts
-      - run: pip install mkdocs-custom-tags-attributes
-      - run: pip install obsidiantools
-      - run: pip install pyvis
+      - run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-callouts mkdocs-custom-tags-attributes obsidiantools pyvis networkx matplotlib
+      - run: python ./makegraph.py
       - run: mkdocs gh-deploy --force
