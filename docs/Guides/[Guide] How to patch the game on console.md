@@ -7,7 +7,7 @@ tags:
 
 ## Requirements
 
-- a modded console #ConsoleGuide
+- a modded console
   - [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS/releases/latest)
 - a sd card
 - your modded files

@@ -1,6 +1,7 @@
 site_name: New Leaf Modding Docs
 site_description: Animal Crossing New Leaf Modding Documentation by Kyusetzu 
 theme:
+  language: en
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -11,8 +12,9 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
-  language: en
-
+  icon:
+    tag:
+      default: material/eye-outline
 # UI-Color
   palette: 
     - media: "(prefers-color-scheme: dark)"
@@ -57,11 +59,19 @@ plugins:
   - search
   - roamlinks
   - callouts
+  - custom-attributes
+  - tags:
+      tags_file: tags.md
 
 extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/yeHNSGyM8F
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+  generate_graph: true 
 
 copyright: |
   &copy; 2023 Kyusetzu

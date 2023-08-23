@@ -7,4 +7,4 @@ tags:
 
 ## Requirements
 
-- a modded console #ConsoleGuide
+- a modded console

@@ -7,4 +7,4 @@ tags:
 
 ## Requirements
 
-- Citra #CitraGuide
+- Citra
