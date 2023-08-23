@@ -1,5 +1,12 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 ## **Introduction**:
+
 BCFNT stands for "Binary CTR Font." It's a proprietary font format developed by Nintendo, primarily for the Nintendo 3DS system ("CTR" being the internal codename for the 3DS). This format is used to store and display font data, including character glyphs, metrics, and other related font properties.
+
 ## **Structure and Components**:
 
 1. **Glyph Data**: The primary content of BCFNT files is the actual glyph data for each character in the font. These glyphs represent the visual shapes of each character and ensure that they are displayed correctly in games or software.

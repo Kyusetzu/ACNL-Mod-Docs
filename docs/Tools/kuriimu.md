@@ -1,3 +1,8 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 # [Kuriimu](https://github.com/IcySon55/Kuriimu)
 
 ![[image-20230816101030211.png]]

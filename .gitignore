@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 docs/.obsidian/*
+ACNL-Mod-Docs.code-workspace

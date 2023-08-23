@@ -1,6 +1,14 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 ## Introduction
+
 BCRES, which stands for "Binary CTR Resource", is a proprietary file format developed by Nintendo for the Nintendo 3DS system ("CTR" is the internal code name for the 3DS). The format is used to store a wide range of graphical assets, including 3D models, textures, animations, and other related data.
+
 ## Structure and Components
+
 BCRES files often encapsulate several sub-files and components:
 
 1. **CMDL (3D Models)**: Represents 3D model data, including mesh geometry, vertex data, and skeleton rigging information.

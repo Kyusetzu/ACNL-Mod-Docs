@@ -1,4 +1,10 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 ## Introduction:
+
 UMSBT files are a proprietary format used primarily in Nintendo games. Standing for "Unified Message String Bundle Table," UMSBT files serve as containers for MSBT files, which in turn store in-game text data. This bundling ensures that multiple language variants of text data can be stored and accessed efficiently within a single game.
 
 ## Structure and Components:

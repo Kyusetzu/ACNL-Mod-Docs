@@ -1,4 +1,10 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 ## Introduction:
+
 In the Nintendo 3DS handheld system ecosystem, BIN files serve as containers for various types of binary data. These files can range from game save data to system firmware components, making them integral to both the operation of the 3DS system and the experience of its games.
 
 ## Structure and Components:

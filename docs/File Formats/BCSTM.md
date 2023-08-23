@@ -1,4 +1,10 @@
+---
+date created: 2023-08-23 12:09
+date updated: 2023-08-23 12:10
+---
+
 ## Introduction:
+
 BCSTM stands for "Binary Cafe Stream", a proprietary audio streaming format developed by Nintendo. This format is mainly used in Nintendo's game platforms such as the Nintendo 3DS to store audio data, mainly background music and sometimes sound effects.
 
 ## Structure and Components:
