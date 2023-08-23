@@ -14,7 +14,7 @@ theme:
     - content.code.copy
   icon:
     tag:
-      default: material/eye-outline
+      default: fontawesome/solid/tags
 # UI-Color
   palette: 
     - media: "(prefers-color-scheme: dark)"
