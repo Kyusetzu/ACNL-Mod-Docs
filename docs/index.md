@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-08-23 12:31
+date updated: 2023-08-23 15:28
 ---
 
 # Overview
@@ -38,11 +38,12 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 
 > [!note] WIP, as you know
 
-| Type      | Guide                                 |
-| --------- | ------------------------------------- |
-| [[BCRES]] | [[[Guide] Editing textures]]          |
-| [[BCSTM]] | [[[Guide] Editing music]]             |
-| [[UMSBT]] | [[[Guide] Editing text]]              |
-| [[BCFNT]] | [[[Guide] Editing the font]]          |
-| [[BIN]]   | [[[Guide] Editing the game metadata]] |
+| Guide                                 | File Type      |
+| ------------------------------------- | --------- |
+| [[[Guide] Editing textures]]          | [[BCRES]] |
+| [[[Guide] Editing music]]             | [[BCSTM]] |
+| [[[Guide] Editing text]]              | [[UMSBT]] |
+| [[[Guide] Editing the font]]          | [[BCFNT]] |
+| [[[Guide] Editing the game metadata]] | [[BIN]]   |
+
 ![[graph.png]]
