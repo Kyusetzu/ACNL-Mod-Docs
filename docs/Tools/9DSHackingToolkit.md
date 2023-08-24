@@ -5,10 +5,17 @@ date updated: 2023-08-24 09:00
 
 # [Asia81's 9DSHackingToolkit](https://github.com/Asia81/HackingToolkit9DS/)
 
+
+
 ## Introduction:
 
 [9DSHackingToolkit](https://github.com/Asia81/HackingToolkit9DS/) is a comprehensive utility designed for modders, developers and enthusiasts of the Nintendo 3DS gaming system. This toolkit offers a range of functionalities to manipulate various file formats associated with the 3DS. Whether you're looking to extract content or rebuild game files, the [9DSHackingToolkit](https://github.com/Asia81/HackingToolkit9DS/) provides the capabilities to do so efficiently.
 
+## **Download**s:
+
+[Release HackingToolkit9DS (V12) · Asia81/HackingToolkit9DS (github.com)](https://github.com/Asia81/HackingToolkit9DS/releases/tag/12)
+
+[Release HackingToolkit3DS (V9) · Asia81/HackingToolkit9DS (github.com)](https://github.com/Asia81/HackingToolkit9DS/releases/tag/9)
 ## **Key Features**:
 
 ### **.3DS file handling**:
