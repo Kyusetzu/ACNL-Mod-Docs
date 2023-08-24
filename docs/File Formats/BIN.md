@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-08-23 12:10
+date updated: 2023-08-24 08:50
 ---
 
 ## Introduction:
@@ -9,7 +9,18 @@ In the Nintendo 3DS handheld system ecosystem, BIN files serve as containers for
 
 ## Structure and Components:
 
-1. **Header Data**: Like many file formats, a BIN file associated with the 3DS typically begins with a header segment that provides metadata about its contents. This can help identify the purpose and origin of the file.
-2. **Payload Data**: The body of the BIN file contains the core data, whether it's save data for a game, a firmware component, or other specialized data related to the 3DS system.
-3. **Checksum/Validation Data**: To ensure the integrity of the data and that it hasn't been tampered with, BIN files on the 3DS often end with checksum or validation data.
-4. **Encryption Layer**: Given the proprietary nature of the 3DS and the importance of maintaining both game balance and user data security, portions of BIN files may be encrypted.
+### **Header Data**:
+
+Like many file formats, a BIN file associated with the 3DS typically begins with a header segment that provides metadata about its contents. This can help identify the purpose and origin of the file.
+
+### **Payload Data**:
+
+The body of the BIN file contains the core data, whether it's save data for a game, a firmware component, or other specialized data related to the 3DS system.
+
+### **Checksum/Validation Data**:
+
+To ensure the integrity of the data and that it hasn't been tampered with, BIN files on the 3DS often end with checksum or validation data.
+
+### **Encryption Layer**:
+
+Given the proprietary nature of the 3DS and the importance of maintaining both game balance and user data security, portions of BIN files may be encrypted.

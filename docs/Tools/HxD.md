@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-08-23 12:10
+date updated: 2023-08-24 09:00
 ---
 
 # [HxD](https://mh-nexus.de/en/HxD)
@@ -11,6 +11,10 @@ date updated: 2023-08-23 12:10
 
 Hex editors like [HxD](https://mh-nexus.de/en/hxd/) provide a way to view and manipulate the underlying bytes of any file, rather than the high-level structured data that most software will show you. When you open a file in [HxD](https://mh-nexus.de/en/hxd/), you'll typically see two main areas:
 
-Hexadecimal view: This displays the contents of a file as bytes, represented in hexadecimal format. You'll see sets of two characters from 00 to FF, representing the possible hexadecimal values of a byte.
+### **Hexadecimal view**:
 
-ASCII view: In addition to the hexadecimal view, you will often see an ASCII view of the same data. This shows the readable characters that correspond to the byte values. Not all byte values correspond to printable characters, so you'll often see dots or other placeholders for non-printable bytes.
+This displays the contents of a file as bytes, represented in hexadecimal format. You'll see sets of two characters from 00 to FF, representing the possible hexadecimal values of a byte.
+
+### **ASCII view**:
+
+In addition to the hexadecimal view, you will often see an ASCII view of the same data. This shows the readable characters that correspond to the byte values. Not all byte values correspond to printable characters, so you'll often see dots or other placeholders for non-printable bytes.

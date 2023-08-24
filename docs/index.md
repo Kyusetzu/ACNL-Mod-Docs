@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-08-23 15:28
+date updated: 2023-08-24 09:03
 ---
 
 # Overview
@@ -22,28 +22,29 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 
 ### Dumping
 
-- [[[Guide] How to dump the game files on console]]
-- [[[Guide] How to dump the game files on pc]]
+- [[How to dump the game files on console]]
+- [[How to dump the game files on pc]]
 
 ### Patching
 
-- [[[Guide] How to patch the game on citra]]
-- [[[Guide] How to patch the game on console]]
+- [[How to patch the game on citra]]
+- [[How to patch the game on console]]
 
 ### Compiling
 
-- [[[Guide] How to compile the game]]
+- [[How to compile the game]]
 
 ## What do you want to mod?
 
 > [!note] WIP, as you know
 
-| Guide                                 | File Type      |
-| ------------------------------------- | --------- |
-| [[[Guide] Editing textures]]          | [[BCRES]] |
-| [[[Guide] Editing music]]             | [[BCSTM]] |
-| [[[Guide] Editing text]]              | [[UMSBT]] |
-| [[[Guide] Editing the font]]          | [[BCFNT]] |
-| [[[Guide] Editing the game metadata]] | [[BIN]]   |
+| Guide                         | File Type |
+| ----------------------------- | --------- |
+| [[Editing textures]]          | [[BCRES]] |
+| [[Editing music]]             | [[BCSTM]] |
+| [[Editing text]]              | [[UMSBT]] |
+| [[Editing the font]]          | [[BCFNT]] |
+| [[Editing the game metadata]] | [[BIN]]   |
+| ...                           | ...       |
 
 ![[graph.png]]
