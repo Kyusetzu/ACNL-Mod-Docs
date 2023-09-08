@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-08-24 09:03
+date updated: 2023-09-08 23:09
 ---
 
 # Overview
@@ -19,6 +19,11 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 [^1]:This documentation was created by Kyusetzu.
 
 ## Do you know these basics?
+
+### Filesystems
+
+- [[tree_basegame|Base Game File System]]
+- [[tree_update|Update File System]]
 
 ### Dumping
 
