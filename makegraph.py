@@ -24,7 +24,7 @@ TAG_BORDER_COLOR = "black"
 
 # Toggles
 IS_TRANSPARENT = True
-SHOW_FILENAMES = False
+SHOW_FILENAMES = True
 SHOW_NODE_BORDER = True
 USE_TAGS = True  # Toggle to connect files using tags
 
@@ -53,7 +53,7 @@ for title in file_titles.values():
 # Extracting tags from each file and adding as nodes
 tags = set()
 if USE_TAGS:
-    tag_pattern = r"#[\w\d_\-]+"  # Matches words like #tagname
+    tag_pattern = r"#[\w\d_\-]+"  # Matches words like #tagname, sadly picks up EVERYTHING thats behind a hashtag
 
     for file in files:
         with open(file, "r", encoding="utf-8", errors="ignore") as f:
