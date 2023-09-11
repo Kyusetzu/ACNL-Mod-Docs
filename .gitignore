@@ -161,3 +161,4 @@ cython_debug/
 
 docs/.obsidian/*
 ACNL-Mod-Docs.code-workspace
+docs/assets/graph.png
