@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-23 12:09
-date updated: 2023-10-05 10:44
+date updated: 2023-12-30 20:11
 ---
 
 # Overview
@@ -23,7 +23,7 @@ Please use the tabs on the left to navigate through the documentation. Alternati
 ### Filesystems
 
 - [[tree_basegame|Animal Crossing New Leaf: Welcome Amiibo]]
-- [[tree_update|[Updatefile] Animal Crossing New Leaf: Welcome Amiibo]]
+- [[tree_update|Updatefile - Animal Crossing New Leaf: Welcome Amiibo]]
 
 ### Dumping
 
